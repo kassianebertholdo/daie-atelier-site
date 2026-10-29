@@ -1,0 +1,54 @@
+DAIÊ ATELIER — SITE RESPONSIVO
+================================
+
+ARQUIVOS
+- index.html: estrutura, textos, metadados SEO e dados estruturados.
+- css/style.css: cores, layout e responsividade.
+- js/script.js: cards dos produtos, menu mobile e links do WhatsApp.
+- assets/img/: coloque suas imagens organizadas por categoria.
+
+COMO COLOCAR AS FOTOS
+1. Abra a pasta assets/img.
+2. Coloque a foto de capa em assets/img/geral/capa.jpg.
+3. Para cada categoria, coloque as imagens com os nomes abaixo (ou altere os nomes no js/script.js).
+
+PERSONALIZADOS — assets/img/personalizados/
+caneta.jpg, imas.jpg, bottons.jpg, canecas.jpg, garrafas.jpg, photocards.jpg
+
+CROCHÊ — assets/img/croche/
+sousplat.jpg, tapetes.jpg, jogos-tapetes.jpg, jogos-banheiro.jpg, decoracao.jpg, encomendas.jpg
+
+AROMAS — assets/img/aromas/
+aromatizador.jpg, aromas.jpg, kit-perfumado.jpg, difusor.jpg, kit-presente.jpg, lembrancinhas.jpg
+
+VELAS — assets/img/velas/
+vela-aromatica.jpg, vela-personalizada.jpg, kit-velas.jpg, lembrancinha.jpg, momentos.jpg, encomenda.jpg
+
+CESTAS — assets/img/cestas/
+cafe-da-manha.jpg, chocolates.jpg, maquiagem.jpg, romantica.jpg, personalizada.jpg, agradecimento.jpg
+
+Se a foto ainda não existir, o site mostra um espaço decorativo indicando o caminho esperado.
+Dica: use imagens JPG ou WebP comprimidas, preferencialmente com até 250–400 KB cada, e mantenha proporções parecidas dentro da mesma categoria.
+
+WHATSAPP
+O número foi configurado como 5571974766085, usando o número informado (7197476085) com o código do Brasil (55).
+Confira se o número está correto e possui WhatsApp. Caso falte algum dígito, ajuste WHATSAPP_NUMBER no início de js/script.js.
+
+COMO ABRIR
+- Extraia o ZIP.
+- Abra index.html no navegador.
+- Para publicar, envie a pasta para uma hospedagem estática, como Netlify ou GitHub Pages.
+
+SEO JÁ INCLUÍDO
+- idioma pt-BR, título e meta description;
+- estrutura semântica, títulos e textos alternativos;
+- Open Graph para compartilhamento;
+- dados estruturados Schema.org/Store;
+- imagens carregadas sob demanda (lazy loading) nos cards.
+
+ANTES DE PUBLICAR
+- Substitua as imagens de exemplo pelas fotos reais.
+- Confirme o telefone, formas de pagamento, área de entrega e prazos.
+- Atualize os textos e produtos para refletirem o catálogo real.
+- Para SEO local, acrescente cidade/estado e dados comerciais corretos no site e no Perfil da Empresa no Google.
+- A citação solicitada parece ser Colossenses 3:23 (não Filipenses 3:23). O rodapé está com Colossenses 3:23 e a tradução indicada.
